@@ -1,2 +1,1 @@
-# sql-dwh-project
-🚀 Build a robust data warehouse from the ground up with SQL Server, complete ETL pipelines, analytical queries, and dimensional data modeling
+🚀 Implemented a SQL Server Data Warehouse by integrating customer and ERP data, performing data cleaning and transformation in SQL (SSMS), and designing fact and dimension tables to enable scalable analytics and reporting.
